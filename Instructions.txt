@@ -1,0 +1,14 @@
+Heart Failure Prediction Web App
+--------------------------------
+
+How to run:
+1. Open terminal / Anaconda Prompt
+2. Go to folder:
+   cd heart_failure_project ( copy your path )
+3. Run:
+   python train_model.py   ← creates model.pkl
+   python app.py           ← launches Flask app
+4. Open browser at http://127.0.0.1:5000
+
+By: [Shivam kumar]
+Date: [22nd July 2025]
